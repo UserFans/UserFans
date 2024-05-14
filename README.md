@@ -11,10 +11,10 @@ Meu nome é Davi da Rosa Santos, estou estudando e me esforçando para me tornar
 
 Sou um garoto de 17 anos, no último ano do ensino médio estudando para se tornar um programador **Front-end**
 
-##Você pode entrar em contato comigo 📫
+## Você pode entrar em contato comigo 📫
 
 davidarosa2006@gmail.com
 
-![https://tenor.com/pt-BR/view/megumi-gif-25252689](link)
+!foto https://tenor.com/pt-BR/view/megumi-gif-25252689
 
 
