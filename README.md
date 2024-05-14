@@ -15,6 +15,7 @@ Sou um garoto de 17 anos, no último ano do ensino médio estudando para se torn
 
 davidarosa2006@gmail.com
 
-!foto https://tenor.com/pt-BR/view/megumi-gif-25252689
 
 
+
+![megumi](https://github.com/UserFans/UserFans/assets/39663918/99024538-d3aa-4fb0-bb8a-cedd1489afd5)
