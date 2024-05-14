@@ -1,16 +1,20 @@
-### Hi there 👋
+### Olá Pessoas! 👋
 
-<!--
-**UserFans/UserFans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Davi da Rosa Santos, estou estudando e me esforçando para me tornar um Desenvolvedor Web.
 
-Here are some ideas to get you started:
+## Linguaguens que eu sei:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript
+- Python
+
+## Sobre mim: 
+
+Sou um garoto de 17 anos, no último ano do ensino médio estudando para se tornar um programador **Front-end**
+
+##Você pode entrar em contato comigo 📫
+
+davidarosa2006@gmail.com
+
+![https://tenor.com/pt-BR/view/megumi-gif-25252689](link)
+
+
